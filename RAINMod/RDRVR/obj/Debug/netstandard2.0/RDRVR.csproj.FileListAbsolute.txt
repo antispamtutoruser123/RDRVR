@@ -1,0 +1,16 @@
+C:\Users\jj131\RAINMod\RDRVR\bin\Debug\netstandard2.0\RDRVR.deps.json
+C:\Users\jj131\RAINMod\RDRVR\bin\Debug\netstandard2.0\RDRVR.dll
+C:\Users\jj131\RAINMod\RDRVR\bin\Debug\netstandard2.0\RDRVR.pdb
+C:\Users\jj131\RAINMod\RDRVR\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+C:\Users\jj131\RAINMod\RDRVR\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+C:\Users\jj131\RAINMod\RDRVR\bin\Debug\netstandard2.0\Assembly-CSharp-firstpass.dll
+C:\Users\jj131\RAINMod\RDRVR\bin\Debug\netstandard2.0\cInput.dll
+C:\Users\jj131\RAINMod\RDRVR\obj\Debug\netstandard2.0\RDRVR.csproj.AssemblyReference.cache
+C:\Users\jj131\RAINMod\RDRVR\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Users\jj131\RAINMod\RDRVR\obj\Debug\netstandard2.0\RDRVR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jj131\RAINMod\RDRVR\obj\Debug\netstandard2.0\RDRVR.AssemblyInfoInputs.cache
+C:\Users\jj131\RAINMod\RDRVR\obj\Debug\netstandard2.0\RDRVR.AssemblyInfo.cs
+C:\Users\jj131\RAINMod\RDRVR\obj\Debug\netstandard2.0\RDRVR.csproj.CoreCompileInputs.cache
+C:\Users\jj131\RAINMod\RDRVR\obj\Debug\netstandard2.0\RDRVR.csproj.CopyComplete
+C:\Users\jj131\RAINMod\RDRVR\obj\Debug\netstandard2.0\RDRVR.dll
+C:\Users\jj131\RAINMod\RDRVR\obj\Debug\netstandard2.0\RDRVR.pdb
